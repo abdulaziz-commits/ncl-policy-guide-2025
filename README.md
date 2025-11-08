@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/abdulaziz-com/NCL-POLICY-GUIDE-2025/main/logo-ncl-gold.png" alt="NCL Logo" width="120](https://github.com/abdulaziz-commits/ncl-policy-guide-2025/blob/main/logo-ncl-gold.PNG)">
+  <img src="logo-ncl-gold.PNG" alt="NCL Logo" width="120">
 </p>
 
 <h1 align="center">🏗️ دليل السياسات التنفيذية – شركة خط الإعمار الوطنية 2025</h1>
-
 <p align="center">
   <strong>إعداد وتنفيذ:</strong><br>
   مركز النواة الميداني – وحدة التطوير المؤسسي<br>
