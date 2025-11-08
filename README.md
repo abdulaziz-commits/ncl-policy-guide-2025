@@ -28,7 +28,11 @@
 
 ## 🌐 عرض الدليل الإلكتروني
 
-🔗 **[عرض الدليل التنفيذي (HTML)](https://abdulaziz-com.github.io/NCL-POLICY-GUIDE-2025/)**
+🔗 **[عرض الدليل التنفيذي (HTML)]<a href="0c7d284b75f56c702305b597976d7f90f340815c.html"
+   target="_blank"
+   style="color:#00796b; text-decoration:underline; font-weight:bold;">
+  📄 عرض الملخص التنفيذي للدراسة الشاملة (HTML)
+</a>
 
 ---
 
