@@ -4,6 +4,7 @@
   <meta charset="UTF-8" />
   <title>دليل السياسات التنفيذية – النسخة المجتمعية العُمانية</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="دليل السياسات التنفيذية – النسخة المجتمعية العُمانية، ضمن منظومة RS-X31 للمعرفة السيادية، بإشراف شركة خط الإعمار الوطنية (NCL) ومركز النواة الميداني." />
   <style>
     body {
       font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
